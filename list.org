@@ -50,3 +50,36 @@ Add movies you'd like to watch on a family night.
 - christmas
 - jack black
 - jude law
+
+* Spooky movie for spooky szn? 
+
+** Cabin in the woods
+- Kinda deep
+- chris hemsworth
+
+** As above so below
+- Also kinda deep
+
+** Insidious 
+- Actually has a kinda interesting plot
+
+** American Warewolf in London
+- Silly
+
+** Carrie
+- Good movie
+
+** IT
+- spooky
+
+** The Shining
+- classic
+
+** Dr Sleep?
+- Sequel to the shining
+
+** The Thing
+- Kurt Russel
+
+** Poltergeist
+- Classic spooky
