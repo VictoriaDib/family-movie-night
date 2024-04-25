@@ -1,116 +1,128 @@
 #+TITLE: Potential Movies
 #+STARTUP: oddeven indent showall
-#+TODO: watched unwatched
+#+TODO: unwatched watched
 
 * Overview
 
 Add movies you'd like to watch on a family night.
 
-** Christopher Robin
+** unwatched hackers
+- hacker
+
+** unwatched The net
+- a computer programmer
+- hacker
+  
+** unwatched Christopher Robin
 - eeyore <3
 
-** The Fast and the Furious
+** unwatched The Fast and the Furious
 - vin deisel
 - The first (and least silly) f&f movie
 - perhaps a "maybe" movie, idk if people are into this sort of thing
    
-** Tokyo Drift
+** watched Tokyo Drift
 - nyoom
 - race car
 - no vin diesal : (
   
-** Drive
+** unwatched Drive
 - ryan gostling (literally me)
 - also nyoom
+- Kat hates this movie
 
-** The Unbearable Weight of Massive Talent
+** watched The Unbearable Weight of Massive Talent
 - Nicolas Cage
 - Pedro Pascal
 
-** The Wicker Man
+** unwatched The Wicker Man
 - Nicolas Cage
 - The bees the bees they're in my eyes
 - Maybe spooky?
 
-** Willy's Wonderland
+** watched Willy's Wonderland
 - Nicolas Cage
 - So silly
 - Based on FNAF
   
-** The Voices
+** unwatched The Voices
 - ryan reynold
 - silly
 
-** The Big Lebowski
+** unwatched The Big Lebowski
 - classic
 - silly
 - white russians 
 
-** The Holiday
+** unwatched The Holiday
 - christmas
 - jack black
 - jude law
 
-** Interstellar
+** unwatched Interstellar
 - matthew macono hay
 - good sound track
 
-** Rocketman
+** unwatched Rocketman
 - elton john
 - i want to sing along 
 - im sorry for the woman i will become when i start hearing songs
 
-** Bohemian Rhapsody 
+** unwatched Bohemian Rhapsody 
 - MAMAAAA JUST KILLED A MAN
 
-** V for Vendetta
+** unwatched V for Vendetta
 - remember, remember some date in November
 
-** Spirited Away
+** unwatched Spirited Away
 - ghibli
 
-** LOTR Trilogy
+** unwatched LOTR Trilogy
 - extended edition if you are brave
 
-** NBC Hannibal
+** unwatched NBC Hannibal
 - <3
 
-** Princess Mononoke
+** unwatched Princess Mononoke
 
-** Silence of the Lambs
+** unwatched Silence of the Lambs
 
-** Everything Everywhere All At Once
+** unwatched Everything Everywhere All At Once
 - for the girlies with mommy issues (me)
 
 * Spooky movie for spooky szn? 
 
-** Cabin in the woods
+** watched Cabin in the woods
 - Kinda deep
 - chris hemsworth
 
-** As above so below
+** unwatched As above so below
 - Also kinda deep
 
-** Insidious 
+** unwatched Insidious 
 - Actually has a kinda interesting plot
 
-** American Warewolf in London
+** unwatched American Warewolf in London
 - Silly
 
-** Carrie
+** unwatched Carrie
 - Good movie
 
-** IT
+** unwatched IT
 - spooky
+- Movie and also the show
 
-** The Shining
+** unwatched The Shining
 - classic
 
-** Dr Sleep?
+** unwatched Dr Sleep?
 - Sequel to the shining
 
-** The Thing
+** unwatched The Thing
 - Kurt Russel
 
-** Poltergeist
+** unwatched Poltergeist
 - Classic spooky
+
+** unwatched The Exorcist
+- Jerking it with crusafix 
